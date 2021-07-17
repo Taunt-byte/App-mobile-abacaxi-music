@@ -8,7 +8,9 @@ Status:Em desenvolvimento
 
 ## Metas do projeto
 
-+ Rodar musica que ja estão abaixadas no celular.
++ Rodar musica que ja estão no celular.
 + Ter a função de criar playlist.
++ Ter barra pra procurar a musica.
++ Colocar a capa na musica automaticamente
 
 ## Tecnologias
