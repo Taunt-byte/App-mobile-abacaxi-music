@@ -1,6 +1,6 @@
 <h1>Abacaxi Music</h1>
 
-Status:Em desenvolvimento
+Status: Em desenvolvimento
 
 ## O que é o projeto
 
