@@ -14,3 +14,4 @@ Status: Em desenvolvimento
 + Colocar a capa na musica automaticamente
 
 ## Tecnologias
+
