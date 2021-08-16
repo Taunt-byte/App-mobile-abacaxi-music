@@ -9,9 +9,19 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      home: ;
-      ),
+      home: MusicApp(),
     );
   }
 }
-class Music extends StatefulWidget
+
+class MusicApp extends StatefulWidget {
+  @override
+  _MusicAppState creatState() => _MusicAppState();
+}
+
+class _MusicAppState extends State<MusicApp> {
+  @override
+  Widget build(BuildContext context) {
+    return Container();
+  }
+}
